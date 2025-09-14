@@ -1,0 +1,24 @@
+# PC Sicherheitsprüfung
+
+Dieses Repository hilft Ihnen, Ihren PC sicher auf Viren und andere Bedrohungen zu überprüfen.
+
+## Windows
+1. Öffnen Sie **Windows-Sicherheit**:
+   - Suchen Sie im Startmenü nach "Windows-Sicherheit".
+   - Gehen Sie zu **Viren- & Bedrohungsschutz** → **Schnellscan**.
+2. Verwenden Sie **Microsoft Safety Scanner** (optional, gründlicher):
+   - Download: https://learn.microsoft.com/de-de/windows/security/threat-protection/intelligence/safety-scanner-download
+   - Tool ausführen und Anweisungen folgen.
+
+## Mac
+1. Prüfen Sie **eingebaute Schutzfunktionen**:
+   - Gehen Sie zu **Systemeinstellungen → Datenschutz & Sicherheit → Sicherheitseinstellungen**.
+   - Firewall aktivieren.
+2. Verwenden Sie **Malwarebytes für Mac** (optional):
+   - Download: https://www.malwarebytes.com/mac
+   - Scan ausführen und Bedrohungen entfernen.
+
+## Empfohlene Best Practices
+- Halten Sie Ihr System auf dem neuesten Stand.
+- Keine verdächtigen Downloads öffnen.
+- Wichtige Dateien regelmäßig sichern.
