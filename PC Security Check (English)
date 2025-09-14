@@ -1,0 +1,25 @@
+# PC Security Check 
+
+This repository helps you check your PC for viruses and other threats safely.
+
+## Windows
+1. Open **Windows Security**:
+   - Search for "Windows Security" in Start menu.
+   - Go to **Virus & threat protection** → **Quick scan**.
+2. Use **Microsoft Safety Scanner** (optional, more thorough):
+   - Download: https://learn.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download
+   - Run the tool and follow instructions.
+
+## Mac
+1. Check **built-in protection**:
+   - Go to **System Settings → Privacy & Security → Security settings**.
+   - Ensure firewall is enabled.
+2. Use **Malwarebytes for Mac** (optional):
+   - Download: https://www.malwarebytes.com/mac
+   - Run scan and remove threats if found.
+
+## Recommended Best Practices
+- Keep your system updated.
+- Avoid suspicious downloads.
+- Backup important files regularly.
+
